@@ -75,7 +75,7 @@ function ProductList() {
         <div className="search-bar">
           <input
             type="text"
-            placeholder="Search products..."
+            placeholder="Search products by the name..."
             value={search}
             onChange={(e) => setSearch(e.target.value)}
           />

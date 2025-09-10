@@ -1,0 +1,16 @@
+export const productImages = {
+  "iPhone 15": "/images/iphone15.jpeg",
+  "Samsung Galaxy S23": "/images/galaxyS23.jpeg",
+  "Apple Watch": "/images/applewatch.jpeg",
+  "Samsung Smart Watch": "/images/smartwatch.jpeg",
+  "MacBook Pro": "/images/macbookpro.jpeg",
+  "Dell XPS Laptop": "/images/dellxps.jpeg",
+  "iPad Pro": "/images/ipadpro.jpeg",
+  "Samsung Galaxy Tab": "/images/galaxytab.jpeg",
+  "LG Smart TV": "/images/lgsmarttv.jpeg",
+  "Sony Bravia TV": "/images/sonybravia.jpeg",
+  "Samsung AC": "/images/samsungac.jpg",
+  "LG Refrigerator": "/images/lgfridge.jpeg",
+  "Whirlpool Washing Machine": "/images/whirlpoolwm.jpeg",
+  Others: "/images/default.jpeg",
+};
